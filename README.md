@@ -1,0 +1,1 @@
+This phonebook react app was made as an assignment of the Fullstack Open 2020 MOOC course.
